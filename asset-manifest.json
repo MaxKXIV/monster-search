@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MaxKXIV/monster-search/static/css/main.26948e3b.css",
+    "main.js": "/MaxKXIV/monster-search/static/js/main.a7ace831.js",
+    "static/js/787.cf35b873.chunk.js": "/MaxKXIV/monster-search/static/js/787.cf35b873.chunk.js",
+    "index.html": "/MaxKXIV/monster-search/index.html",
+    "main.26948e3b.css.map": "/MaxKXIV/monster-search/static/css/main.26948e3b.css.map",
+    "main.a7ace831.js.map": "/MaxKXIV/monster-search/static/js/main.a7ace831.js.map",
+    "787.cf35b873.chunk.js.map": "/MaxKXIV/monster-search/static/js/787.cf35b873.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26948e3b.css",
+    "static/js/main.a7ace831.js"
+  ]
+}
